@@ -2,7 +2,7 @@
 ### Project 2 - Relations between education, patents, work sector and income over time-V6
 
 The purpose of this project is to investigate the relations between education, patents, work sector and income over a specific period of time, for which we have the data available.
-The objective is to support, through data analysis, 4 few theories that I formulated.
+The objective is to support, through data analysis, four theories that I formulated.
 In particular:
 
     1) Education should have a positive impact on income, as the more knowledgeable people of a specific country are, the more that country should be able to produce prosperity
