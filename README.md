@@ -1,5 +1,5 @@
 ## Data-Analysis-Project
-### Project 2 - Relations between education, patents, work sector and income over time-V6
+### Relations between education, patents, work sector and income over time
 
 The purpose of this project is to investigate the relations between education, patents, work sector and income over a specific period of time, for which we have the data available.
 The objective is to support, through data analysis, four theories that I formulated.
